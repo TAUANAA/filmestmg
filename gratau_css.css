@@ -1,0 +1,38 @@
+h1{
+    text-align:center;
+    color: white;
+
+}
+p{
+    color: white; 
+    width: 600px; 
+    left: 400px; 
+    position: relative;
+
+}
+img{
+    width:200px; 
+    height: 300px;
+
+}
+body{
+    background-color:rgb(90,00,20);
+}
+a{
+    color: white;
+}
+h3{
+    color: white; 
+}
+li{
+    color: white; 
+}
+h2{
+    text-align: center;
+}
+
+a{
+    width:200px;
+    height:100px;
+     
+}
