@@ -1,14 +1,16 @@
 h1{
     text-align:center;
     color: white;
+    font-size:50px;
 
 }
 p{
     color: white; 
     width: 600px; 
-    left: 400px; 
-    position: relative;
+    left: 10px; 
+    font-size:20px;
 
+    position: relative;
 }
 img{
     width:200px; 
@@ -17,22 +19,31 @@ img{
 }
 body{
     background-color:rgb(90,00,20);
+    color: white; 
+    left: 400px; 
+    width: 600px;
+    position: relative;
 }
 a{
-    color: white;
+    color:white;
 }
 h3{
-    color: white; 
+    color:white;
+    text-align:center;
+    font-size:25px;
+    
 }
 li{
-    color: white; 
+    color:white;
+    font-size:20px;
 }
 h2{
     text-align: center;
+    font-size:35px;
+  
 }
 
-a{
-    width:200px;
-    height:100px;
-     
+ol,{
+    list-style-position: outside;
+    text-align : center;
 }
