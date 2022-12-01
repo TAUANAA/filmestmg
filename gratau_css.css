@@ -1,9 +1,10 @@
 h1{
     text-align:center;
-    color:white;
+    color:rgb(189, 106, 106);
     font-size:65px;
-    margin:100px;
-
+    margin-top:100px;
+    margin-left: 300px;
+   
 }
 p{
     color:white; 
@@ -20,7 +21,7 @@ img{
 
 }
 body{
-    background-image: url(https://docs.google.com/uc?id=1SBF5qRW7KDW2j9NVAJ0suwvQT_2KIzGH);
+    background-image: url(https://docs.google.com/uc?id=1qpIUA0X_6bHw5Kvt8rm7oUBstGhsYZgt);
     background-size:cover;
     background-attachment:fixed;
     color:white; 
@@ -34,7 +35,7 @@ a{
 }
 h3{
     color:white;
-    text-align:center;
+    text-align:left;
     font-size:25px;
     
 }
@@ -44,7 +45,7 @@ li{
     font-size:20px;
 }
 h2{
-    text-align: center;
+    text-align:left;
     font-size:35px;
   
 }
@@ -56,10 +57,11 @@ ol{
 
 table{
     width: 900px;
-    margin-left: 200px;
+    margin-left: 20px;
+    border: solid white 1px;
 }
 
 #tauana{
-    text-align: center;
+    text-align:left;
      width: 1250px;
 }
